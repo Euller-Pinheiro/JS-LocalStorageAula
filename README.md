@@ -1,3 +1,21 @@
+# Persistência com localStorage
+
+Pequeno projeto para entender o `localStorage`: o usuário digita o nome, a página guarda no navegador e o reconhece ao voltar, mesmo depois de fechar a aba.
+
+Projeto de estudo de 2023 (JavaScript), mantido aqui como registro da minha evolução.
+
+## Como rodar
+
+Abra o `index.html` no navegador.
+
+## O que pratiquei
+
+- API `localStorage` (setItem, getItem, removeItem)
+- Ciclo de vida de dados no navegador
+- Atualizar a interface conforme o estado salvo
+
+## Anotações da aula
+
 Projeto prático sobre ->
 localStorage:
 localStorage, é um recurso para salvar dados no navegador, que persiste até mesmo após o recarregamento da página ou ao fechar a aba;
@@ -11,3 +29,7 @@ Quando precisamos guardar um dado que o usuário sempre irá precisar quando ace
 
 Explicação do Projeto:
 Esse projeto consiste em o usuário informar seu nome e logar no “sistema”, e quando o mesmo fechar a aba do navegador ou recarregar, ele sempre irá ter o acesso até que ele clique em “sair”, dessa maneira o usuário dele é “esquecido” pelo sistema, logo irá precisar informar seu nome novamente.
+
+---
+
+**Euller Pinheiro**. Projetos atuais em [github.com/Euller-Pinheiro](https://github.com/Euller-Pinheiro).
